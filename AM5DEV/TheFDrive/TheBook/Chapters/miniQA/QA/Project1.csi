@@ -1,0 +1,14 @@
+[History]
+B0=Lite_QA/frmQA
+B1=Lite_QA/frmQA/ExecuteQuery
+B2=Lite_QA/frmQA/cmdParse_Click
+B3=Lite_QA/Module1
+B4=Lite_QA/frmQA/cmdRun_Click
+B5=Lite_QA/frmQA/cmdLogon_Click
+B6=Lite_QA/frmLogin
+B7=Lite_QA/frmQA/Form_Load
+B8=Lite_QA/frmQA/ShowDatabases
+B9=Lite_QA/frmLogin/cmdCancel_Click
+B10=Lite_QA/frmLogin/Logon
+B11=Lite_QA/frmLogin/cmdOK_Click
+B12=Lite_QA/Module1/main

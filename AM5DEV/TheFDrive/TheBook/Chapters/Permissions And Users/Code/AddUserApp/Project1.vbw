@@ -1,0 +1,5 @@
+frmAddGroups = 21, 16, 975, 733, C, 0, 0, 0, 0, C
+Module1 = 482, 182, 929, 732, C
+frmNewLogin = 57, 53, 946, 689, C, 0, 0, 0, 0, C
+frmDBRoles = -12, 1, 1150, 655, , 44, 58, 1069, 568, C
+frmManageLogins = 69, 65, 981, 652, C, 0, 0, 0, 0, C
